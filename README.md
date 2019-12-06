@@ -10,3 +10,8 @@
 9.	Yang terakhir adalah menu dengan perintah search (mencari). Inputkan Data[Nama] yang akan dicari. Gunakan kondisi if , jika hasilnya True maka akan tercetak data yang dicari dengan menggunakan perintah print Data (Nama, Data[Nama]). Dan jika hasilnya False maka akan tercetak “Data ... tidak ada” dan  muncul perintah untuk memasukkan inputan menu lagi.
 10.	Kondisi yang terakhir menggunakan else, jika menu yang Anda inputkan tidak ada pada menu maka Anda akan disuruh untuk menginputkan menu pilihan yang ada saja pada Data.
 11. Berikut Hasil program ketika di Run:
+
+gambar (2):
+![Uploading Screenshot (109).png…]()
+gambar (3):
+![Screenshot (112)](https://user-images.githubusercontent.com/57002773/70345837-8345c880-188f-11ea-8316-28f47dc1869f.png)
